@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="card-footer">
-                            <asp:Button class="btn btn-primary btn-sm" ID="btnCambiaPass" runat="server" Text="Cambiar Contraseña" OnClick="btnCambiaPass_Click" />
+                            <asp:Button class="btns btns-dark d-inline-block d-lg-none ml-auto" ID="btnCambiaPass" runat="server" Text="Cambiar Contraseña" OnClick="btnCambiaPass_Click" />
                         </div>
                     </div>
                 </div>

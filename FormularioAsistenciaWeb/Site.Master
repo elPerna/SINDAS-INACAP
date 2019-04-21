@@ -22,6 +22,7 @@
     <link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
     <link href="vendor/font-awesome-5/css/fontawesome-all.min.css" rel="stylesheet" media="all">
     <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="css/solid.css" rel="stylesheet" media="all">
 
     <!-- Bootstrap CSS-->
     <link href="vendor/bootstrap-4.1/bootstrap.min.css" rel="stylesheet" media="all">
@@ -42,7 +43,7 @@
 
 </head>
 
-<body class="animsition">
+<body class="animsition" onscroll="no">
     <form runat="server">
 
         <div class="page-wrapper">
@@ -70,30 +71,28 @@
                                     <i class="fas fa-tachometer-alt"></i>Menú</a>
                                 <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
                                      <li class="has-sub">
-                                        <a class="js-arrow" href="#">
+                                        <a class="js-arrow" id="separadorM" href="#">
                                             Usuarios</a>
                                  <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
-                                    <li>
+                                    <li class="separador">
                                         <a href="CrearUsuario.aspx">Registrar Usuario</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="EditarUsuario.aspx">Editar Usuario</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="EliminarUsuario.aspx">Eliminar Usuario</a>
                                     </li>
                                  </ul>
                                     </li>
-                                    <li>
-                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
-                                    </li>
-                                    <li>
+
+                                    <li class="separador">
                                         <a href="Excel.aspx">Cargar Archivo</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Datos.aspx">Ver Datos Cargados</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Dashboard.aspx">Ver Dashboard</a>
                                     </li>
                                    </ul>
@@ -107,47 +106,40 @@
             <!-- END HEADER MOBILE-->
 
             <!-- MENU SIDEBAR-->
-            <aside class="menu-sidebar d-none d-lg-block">
-                <div class="logo">
-                    <a href="#">
-                        <img src="images/icon/SINDAS.png" alt="Sindas" />
-                    </a>
-                </div>
-                <div class="menu-sidebar__content js-scrollbar1">
+            <aside class="menu-sidebar d-none d-lg-block" style="margin-top: 5rem; overflow-y:hidden;" >                            
+                <div class="menu-sidebar__content">
                     <nav class="navbar-sidebar">
                         <ul class="list-unstyled navbar__list" id="Administrador">
                             <li class="active has-sub">
                                 <a class="js-arrow" href="#">
                                     <i class="fas fa-tachometer-alt"></i>Menú</a>
-                                <ul class="list-unstyled navbar__sub-list js-sub-list" style="display: block;">
+                                <ul class="list-unstyled navbar__sub-list navbar__list js-sub-list" style="display: block;">
                                     <li class="has-sub">
-                                        <a class="js-arrow" href="#">
+                                        <a class="js-arrow" id="separador" href="#">
                                             Usuarios</a>
                                         <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
-                                            <li>
+                                            <li class="separador">
                                                 <a href="CrearUsuario.aspx">Registrar Usuario</a>
                                             </li>
-                                            <li>
+                                            <li class="separador">
                                                 <a href="EditarUsuario.aspx">Editar Usuario</a>
                                             </li>
-                                            <li>
+                                            <li class="separador">
                                                 <a href="EliminarUsuario.aspx">Eliminar Usuario</a>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li>
-                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
-                                    </li>
-                                    <li>
+
+                                    <li class="separador">
                                         <a href="Excel.aspx">Cargar Archivo</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Datos.aspx">Ver Datos Cargados</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Dashboard.aspx">Ver Dashboard</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="DashboardHistorial.aspx">Historial de Dashboard</a>
                                     </li>
                                 </ul>
@@ -158,20 +150,17 @@
                             <li class="active has-sub">
                                 <a class="js-arrow" href="#">
                                     <i class="fas fa-tachometer-alt"></i>Menú</a>
-                                <ul class="list-unstyled navbar__sub-list js-sub-list" style="display: block;">
-                                    <li>
-                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
-                                    </li>
-                                    <li>
+                                <ul class="list-unstyled navbar__sub-list navbar__list js-sub-list" style="display: block;">
+                                    <li class="separador">
                                         <a href="Excel.aspx">Cargar Archivo</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Datos.aspx">Ver Datos Cargados</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Dashboard.aspx">Ver Dashboard</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="DashboardHistorial.aspx">Historial de Dashboard</a>
                                     </li>
                                 </ul>
@@ -182,13 +171,10 @@
                                 <a class="js-arrow" href="#">
                                     <i class="fas fa-tachometer-alt"></i>Menú</a>
                                 <ul class="list-unstyled navbar__sub-list js-sub-list" style="display: block;">
-                                    <li>
-                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
-                                    </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="Dashboard.aspx">Ver Dashboard</a>
                                     </li>
-                                    <li>
+                                    <li class="separador">
                                         <a href="DashboardHistorial.aspx">Historial de Dashboard</a>
                                     </li>
                                 </ul>
@@ -203,6 +189,12 @@
             <div class="page-container">
                 <!-- HEADER DESKTOP-->
                 <header class="header-desktop">
+                    <div class="logo">                    
+                        <img src="images/icon/logoINACAP.png" width="120" height="32" class="d-inline-block align-top" style="padding: 0; margin-left: 2rem; margin-top: 1rem;" >
+                        <b style="color: #ffffff; border-left: 2px solid #fff; padding: 0 0 0 15px;font-size:2.6rem;line-height:inherit;white-space:nowrap">SINDAS</b>
+                    </a>
+                    </div>
+                    
                     <div class="section__content section__content--p30">
                         <div class="container-fluid">
                             <div class="header-wrap">
@@ -212,16 +204,17 @@
                                     <div class="account-wrap">
                                         <div class="account-item clearfix js-item-menu">
                                             <div class="image">
-                                                <img src="images/icon/user.jpg" alt="Nombre Usuario" />
+                                                <img src="images/icon/f2.png" alt="Nombre Usuario" />
                                             </div>
                                             <div class="content">
                                                 <a class="js-acc-btn" href="#"><%= Session["nombre"] %> <%= Session["apellido"] %></a>
                                             </div>
+
                                             <div class="account-dropdown js-dropdown">
                                                 <div class="info clearfix">
                                                     <div class="image">
                                                         <a href="#">
-                                                            <img src="images/icon/user.jpg" alt="Icono Usuario" />
+                                                            <img src="images/icon/f2.png" alt="Icono Usuario" />
                                                         </a>
                                                     </div>
                                                     <div class="content">
@@ -232,6 +225,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="account-dropdown__footer">
+                                                    <asp:LinkButton runat="server" ID="ChangePass" href="CambioContraseña.aspx"> <i class="zmdi zmdi-key"></i>Cambiar Contraseña</asp:LinkButton>
                                                     <asp:LinkButton runat="server" ID="logOut" OnClick="logOut_Click"><i class="zmdi zmdi-power"></i>Cerrar sesión</asp:LinkButton>
                                                 </div>
                                             </div>
@@ -243,7 +237,7 @@
                     </div>
                 </header>
                 <!-- HEADER DESKTOP-->
-                <div class="main-content">
+                <div class="main-content" style="background-color: white;">
                     <asp:ContentPlaceHolder ID="MainContent" runat="server">
                     </asp:ContentPlaceHolder>
                 </div>

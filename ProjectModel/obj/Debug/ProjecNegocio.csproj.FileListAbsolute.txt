@@ -89,3 +89,16 @@ D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\De
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjectModel.dll
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjectModel.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\ProjectModel.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\ProjectModel.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\ProjecDTO.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\AccesoDatos.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\ProjecDTO.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\obj\Debug\ProjectModel.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectModel\obj\Debug\ProjectModel.pdb

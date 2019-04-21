@@ -28,7 +28,7 @@
                             </div>
                         </div>
                         <div class="card-footer">
-                            <asp:Button class="btn btn-primary btn-sm" ID="enviar" runat="server" Text="Enviar" OnClick="enviar_Click1" />
+                            <asp:Button class="btns btns-dark d-inline-block d-lg-none ml-auto" ID="enviar" runat="server" Text="Enviar" OnClick="enviar_Click1" />
                         </div>
                     </div>
                 </div>

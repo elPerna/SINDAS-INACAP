@@ -32,3 +32,9 @@ D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\bi
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\obj\Debug\ProjectEntidades.dll
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectEntidades\obj\Debug\ProjectEntidades.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjectEntidades\obj\Debug\ProjectEntidades.pdb

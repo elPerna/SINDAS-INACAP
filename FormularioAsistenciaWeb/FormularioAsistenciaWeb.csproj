@@ -253,6 +253,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="CrearUsuario.aspx" />
     <Content Include="css\font-face.css" />
+    <Content Include="css\solid.css" />
     <Content Include="css\theme.css" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Manage.aspx" />
@@ -320,6 +321,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="fonts\poppins\fa-solid-900.svg" />
     <Content Include="fonts\poppins\poppins-v5-latin-100.svg" />
     <Content Include="fonts\poppins\poppins-v5-latin-100italic.svg" />
     <Content Include="fonts\poppins\poppins-v5-latin-200.svg" />
@@ -351,10 +353,12 @@
     <Content Include="Images\icon\avatar-05.jpg" />
     <Content Include="Images\icon\avatar-06.jpg" />
     <Content Include="Images\icon\avatar-big-01.jpg" />
+    <Content Include="Images\icon\f2.png" />
     <Content Include="Images\icon\logo-blue.png" />
     <Content Include="Images\icon\logo-mini.png" />
     <Content Include="Images\icon\logo-white.png" />
     <Content Include="Images\icon\logo.png" />
+    <Content Include="Images\icon\logoINACAP.png" />
     <Content Include="Images\icon\Nico.jpg" />
     <Content Include="Images\icon\SINDAS.png" />
     <Content Include="Images\icon\Untitled-1.jpg" />
@@ -535,6 +539,10 @@
     <Content Include="fonts\poppins\poppins-v5-latin-regular.woff" />
     <Content Include="fonts\poppins\poppins-v5-latin-regular.woff2" />
     <Content Include="Login.Master" />
+    <Content Include="fonts\poppins\fa-solid-900.eot" />
+    <Content Include="fonts\poppins\fa-solid-900.ttf" />
+    <Content Include="fonts\poppins\fa-solid-900.woff" />
+    <Content Include="fonts\poppins\fa-solid-900.woff2" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />

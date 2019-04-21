@@ -66,3 +66,12 @@ D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjecDTO\obj\Debug
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjecDTO\obj\Debug\ProjecDTO.csproj.CopyComplete
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjecDTO\obj\Debug\ProjecDTO.dll
 D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjecDTO\obj\Debug\ProjecDTO.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\bin\Debug\ProjecDTO.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\bin\Debug\ProjecDTO.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\obj\Debug\ProjecDTO.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\obj\Debug\ProjecDTO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\obj\Debug\ProjecDTO.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\obj\Debug\ProjecDTO.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS 1.1.1.0\SINDAS-INACAP\ProjecDTO\obj\Debug\ProjecDTO.pdb

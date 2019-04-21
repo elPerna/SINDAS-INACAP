@@ -82,7 +82,7 @@
                             </div>
                         </div>
                         <div class="card-footer">
-                            <asp:button class="btn btn-primary btn-sm" id="btnRegistrar"  runat="server" Text="Registrar Usuario" OnClick="btnRegistrar_Click" />
+                            <asp:button class="btns btns-dark d-inline-block d-lg-none ml-auto" id="btnRegistrar"  runat="server" Text="Registrar Usuario" OnClick="btnRegistrar_Click" />
                         </div>
                     </div>
                 </div>

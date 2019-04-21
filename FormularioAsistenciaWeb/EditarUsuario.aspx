@@ -19,7 +19,7 @@
                                             <asp:TextBox class="au-input au-input--full" ID="txtRut" placeholder="RUT  Ej: 12345678-9" runat="server" oninput="checkRut(this)" required></asp:TextBox>
                                         </div>                                   
                                         <div class="input-group-btn">
-                                            <asp:Button runat="server" class="btn btn-primary" Text="Buscar" ID="btnBusqueda" OnClick="btnBusqueda_Click" />
+                                            <asp:Button runat="server" class="btns btns-dark d-inline-block d-lg-none ml-auto" Text="Buscar" ID="btnBusqueda" OnClick="btnBusqueda_Click" />
                                         </div>
                                         <div>
                                             &nbsp;<asp:Label ID="lblmsg" runat="server"></asp:Label>
@@ -88,7 +88,7 @@
                         </div>
                     </div>
                     <div class="card-footer">
-                        <asp:Button class="btn btn-primary btn-sm" ID="btnEditar" runat="server" Text="Editar Usuario" OnClick="btnEditar_Click" />
+                        <asp:Button class="btns btns-dark d-inline-block d-lg-none ml-auto" ID="btnEditar" runat="server" Text="Editar Usuario" OnClick="btnEditar_Click" />
                     </div>
                 </div>
             </div>
