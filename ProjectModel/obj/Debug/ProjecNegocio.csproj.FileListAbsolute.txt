@@ -1,0 +1,91 @@
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\obj\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectModel\obj\Debug\ProjectModel.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectModel.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectModel.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\ProjecDTO.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\AccesoDatos.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\ProjecDTO.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\obj\Debug\ProjectModel.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectModel\obj\Debug\ProjectModel.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\ProjectModel.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\ProjectModel.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\ProjecDTO.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\AccesoDatos.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\ProjecDTO.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\obj\Debug\ProjectModel.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectModel\obj\Debug\ProjectModel.pdb
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\ProjectModel.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\ProjectModel.pdb
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\ProjecDTO.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\AccesoDatos.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\ProjecDTO.pdb
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.pdb
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\obj\Debug\ProjectModel.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectModel\obj\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\ProjectModel.pdb
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\ProjecDTO.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\AccesoDatos.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjecNegocio.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjecNegocio.csproj.ResolveComReference.cache
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjecNegocio.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjecNegocio.csproj.CopyComplete
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjectModel.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectModel\obj\Debug\ProjectModel.pdb

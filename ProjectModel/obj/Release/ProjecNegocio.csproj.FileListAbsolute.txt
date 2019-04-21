@@ -1,0 +1,26 @@
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\bin\Release\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csproj.ResolveComReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Release\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectModel\obj\Release\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\ProjectModel.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\bin\Release\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csproj.ResolveComReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Release\ProjecNegocio.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Release\ProjectModel.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjectModel\obj\Release\ProjectModel.pdb
