@@ -1,0 +1,20 @@
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\bin\Release\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\bin\Release\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\bin\Release\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\bin\Release\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\bin\Release\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\obj\Release\ProjecDTO.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\obj\Release\ProjecDTO.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\obj\Release\ProjecDTO.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\obj\Release\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjecDTO\obj\Release\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\bin\Release\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\bin\Release\ProjecDTO.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\bin\Release\AccesoDatos.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\bin\Release\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\bin\Release\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\obj\Release\ProjecDTO.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\obj\Release\ProjecDTO.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\obj\Release\ProjecDTO.csproj.CopyComplete
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\obj\Release\ProjecDTO.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS - copia\SINDAS\ProjecDTO\obj\Release\ProjecDTO.pdb
