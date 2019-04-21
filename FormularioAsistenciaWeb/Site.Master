@@ -1,0 +1,333 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FormularioAsistenciaWeb.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head runat="server">
+
+
+
+    <!-- Required meta tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="au theme template">
+    <meta name="author" content="Hau Nguyen">
+    <meta name="keywords" content="au theme template">
+
+    <!-- Title Page-->
+    <title>Dashboard</title>
+
+    <!-- Fontfaces CSS-->
+    <link href="css/font-face.css" rel="stylesheet" media="all">
+    <link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+    <link href="vendor/font-awesome-5/css/fontawesome-all.min.css" rel="stylesheet" media="all">
+    <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+
+    <!-- Bootstrap CSS-->
+    <link href="vendor/bootstrap-4.1/bootstrap.min.css" rel="stylesheet" media="all">
+
+    <!-- Vendor CSS-->
+    <link href="vendor/animsition/animsition.min.css" rel="stylesheet" media="all">
+    <link href="vendor/bootstrap-progressbar/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet" media="all">
+    <link href="vendor/wow/animate.css" rel="stylesheet" media="all">
+    <link href="vendor/css-hamburgers/hamburgers.min.css" rel="stylesheet" media="all">
+    <link href="vendor/slick/slick.css" rel="stylesheet" media="all">
+    <link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="vendor/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" media="all">
+
+    <!-- Main CSS-->
+    <link href="css/theme.css" rel="stylesheet" media="all">
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<body class="animsition">
+    <form runat="server">
+
+        <div class="page-wrapper">
+            <!-- HEADER MOBILE-->
+            <header class="header-mobile d-block d-lg-none">
+                <div class="header-mobile__bar">
+                    <div class="container-fluid">
+                        <div class="header-mobile-inner">
+                            <a class="logo" href="index.html">
+                                <img src="images/icon/SINDAS.png" alt="Sindas" />
+                            </a>
+                            <button class="hamburger hamburger--slider" type="button">
+                                <span class="hamburger-box">
+                                    <span class="hamburger-inner"></span>
+                                </span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <nav class="navbar-mobile">
+                    <div class="container-fluid">
+                        <ul class="navbar-mobile__list list-unstyled">
+                            <li class="has-sub">
+                                <a class="js-arrow" href="#">
+                                    <i class="fas fa-tachometer-alt"></i>Menú</a>
+                                <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
+                                     <li class="has-sub">
+                                        <a class="js-arrow" href="#">
+                                            Usuarios</a>
+                                 <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
+                                    <li>
+                                        <a href="CrearUsuario.aspx">Registrar Usuario</a>
+                                    </li>
+                                    <li>
+                                        <a href="EditarUsuario.aspx">Editar Usuario</a>
+                                    </li>
+                                    <li>
+                                        <a href="EliminarUsuario.aspx">Eliminar Usuario</a>
+                                    </li>
+                                 </ul>
+                                    </li>
+                                    <li>
+                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
+                                    </li>
+                                    <li>
+                                        <a href="Excel.aspx">Cargar Archivo</a>
+                                    </li>
+                                    <li>
+                                        <a href="Datos.aspx">Ver Datos Cargados</a>
+                                    </li>
+                                    <li>
+                                        <a href="Dashboard.aspx">Ver Dashboard</a>
+                                    </li>
+                                   </ul>
+                                  </li>
+                                
+                            
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+            <!-- END HEADER MOBILE-->
+
+            <!-- MENU SIDEBAR-->
+            <aside class="menu-sidebar d-none d-lg-block">
+                <div class="logo">
+                    <a href="#">
+                        <img src="images/icon/SINDAS.png" alt="Sindas" />
+                    </a>
+                </div>
+                <div class="menu-sidebar__content js-scrollbar1">
+                    <nav class="navbar-sidebar">
+                        <ul class="list-unstyled navbar__list" id="Administrador">
+                            <li class="active has-sub">
+                                <a class="js-arrow" href="#">
+                                    <i class="fas fa-tachometer-alt"></i>Menú</a>
+                                <ul class="list-unstyled navbar__sub-list js-sub-list" style="display: block;">
+                                    <li class="has-sub">
+                                        <a class="js-arrow" href="#">
+                                            Usuarios</a>
+                                        <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
+                                            <li>
+                                                <a href="CrearUsuario.aspx">Registrar Usuario</a>
+                                            </li>
+                                            <li>
+                                                <a href="EditarUsuario.aspx">Editar Usuario</a>
+                                            </li>
+                                            <li>
+                                                <a href="EliminarUsuario.aspx">Eliminar Usuario</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
+                                    </li>
+                                    <li>
+                                        <a href="Excel.aspx">Cargar Archivo</a>
+                                    </li>
+                                    <li>
+                                        <a href="Datos.aspx">Ver Datos Cargados</a>
+                                    </li>
+                                    <li>
+                                        <a href="Dashboard.aspx">Ver Dashboard</a>
+                                    </li>
+                                    <li>
+                                        <a href="DashboardHistorial.aspx">Historial de Dashboard</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                        <ul class="list-unstyled navbar__list" id="Coordinador">
+                            <li class="active has-sub">
+                                <a class="js-arrow" href="#">
+                                    <i class="fas fa-tachometer-alt"></i>Menú</a>
+                                <ul class="list-unstyled navbar__sub-list js-sub-list" style="display: block;">
+                                    <li>
+                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
+                                    </li>
+                                    <li>
+                                        <a href="Excel.aspx">Cargar Archivo</a>
+                                    </li>
+                                    <li>
+                                        <a href="Datos.aspx">Ver Datos Cargados</a>
+                                    </li>
+                                    <li>
+                                        <a href="Dashboard.aspx">Ver Dashboard</a>
+                                    </li>
+                                    <li>
+                                        <a href="DashboardHistorial.aspx">Historial de Dashboard</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled navbar__list" id="Director">
+                            <li class="active has-sub">
+                                <a class="js-arrow" href="#">
+                                    <i class="fas fa-tachometer-alt"></i>Menú</a>
+                                <ul class="list-unstyled navbar__sub-list js-sub-list" style="display: block;">
+                                    <li>
+                                        <a href="CambioContraseña.aspx">Cambiar contraseña</a>
+                                    </li>
+                                    <li>
+                                        <a href="Dashboard.aspx">Ver Dashboard</a>
+                                    </li>
+                                    <li>
+                                        <a href="DashboardHistorial.aspx">Historial de Dashboard</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </aside>
+            <!-- END MENU SIDEBAR-->
+
+            <!-- PAGE CONTAINER-->
+            <div class="page-container">
+                <!-- HEADER DESKTOP-->
+                <header class="header-desktop">
+                    <div class="section__content section__content--p30">
+                        <div class="container-fluid">
+                            <div class="header-wrap">
+                                <form class="form-header" action="" method="POST">
+                                </form>
+                                <div class="header-button">
+                                    <div class="account-wrap">
+                                        <div class="account-item clearfix js-item-menu">
+                                            <div class="image">
+                                                <img src="images/icon/user.jpg" alt="Nombre Usuario" />
+                                            </div>
+                                            <div class="content">
+                                                <a class="js-acc-btn" href="#"><%= Session["nombre"] %> <%= Session["apellido"] %></a>
+                                            </div>
+                                            <div class="account-dropdown js-dropdown">
+                                                <div class="info clearfix">
+                                                    <div class="image">
+                                                        <a href="#">
+                                                            <img src="images/icon/user.jpg" alt="Icono Usuario" />
+                                                        </a>
+                                                    </div>
+                                                    <div class="content">
+                                                        <h5 class="name">
+                                                            <a href="#"><%= Session["nombre"] %> <%= Session["apellido"] %></a>
+                                                        </h5>
+                                                        <span class="email"><%= Session["email"] %></span>
+                                                    </div>
+                                                </div>
+                                                <div class="account-dropdown__footer">
+                                                    <asp:LinkButton runat="server" ID="logOut" OnClick="logOut_Click"><i class="zmdi zmdi-power"></i>Cerrar sesión</asp:LinkButton>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <!-- HEADER DESKTOP-->
+                <div class="main-content">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <!-- END PAGE CONTAINER-->
+            </div>
+
+        </div>
+
+        <!-- Jquery JS-->
+        <script src="vendor/validarRUT.js"></script>
+        <script src="vendor/Jspdf.js"></script>
+        <script src="vendor/jquery-3.2.1.min.js"></script>
+        <!-- Bootstrap JS-->
+        <script src="vendor/bootstrap-4.1/popper.min.js"></script>
+        <script src="vendor/bootstrap-4.1/bootstrap.min.js"></script>
+        <!-- Vendor JS       -->
+        <script src="vendor/slick/slick.min.js">
+        </script>
+        <script src="vendor/wow/wow.min.js"></script>
+        <script src="vendor/animsition/animsition.min.js"></script>
+        <script src="vendor/bootstrap-progressbar/bootstrap-progressbar.min.js">
+        </script>
+        <script src="vendor/counter-up/jquery.waypoints.min.js"></script>
+        <script src="vendor/counter-up/jquery.counterup.min.js">
+        </script>
+        <script src="vendor/circle-progress/circle-progress.min.js"></script>
+        <script src="vendor/perfect-scrollbar/perfect-scrollbar.js"></script>
+        <script src="vendor/chartjs/Chart.bundle.min.js"></script>
+        <script src="vendor/select2/select2.min.js">
+        </script>
+
+        <!-- Main JS-->
+        <script src="js/main.js"></script>
+    </form>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var valor = '<%= Session["usuario"] %>';
+            if (valor === 'Administrador') {
+                $("#Coordinador").hide();
+                $("#Director").hide();
+            }
+            if (valor === 'Coordinador') {
+                $("#Administrador").hide();
+                $("#Director").hide();
+            }
+            if (valor === 'Director') {
+                $("#Administrador").hide();
+                $("#Coordinador").hide();
+            }
+        });
+
+        function numbersOnly(e) {
+            tecla = (document.all) ? e.keyCode : e.which;
+
+            //Tecla de retroceso para borrar, siempre la permite
+            if (tecla == 8) {
+                return true;
+            }
+
+            // Patron de entrada, en este caso solo acepta numeros
+            patron = /[0-9]/;
+            tecla_final = String.fromCharCode(tecla);
+            return patron.test(tecla_final);
+        }
+
+        var doc = new jsPDF();
+        var specialElementHandlers = {
+            '#divpanel': function (element, renderer) {
+                return true;
+            }
+        };
+
+        $('#btnPDF').click(function () {
+            doc.fromHTML($('#divGrafico').html(), 15, 15, {
+                'width': 170,
+                    'elementHandlers': specialElementHandlers
+            });
+            doc.save('sample-file.pdf');
+        });
+        //$("#sesion").click(function(){
+
+        //});
+    </script>
+</body>
+
+</html>
+<!-- end document-->
