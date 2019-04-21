@@ -1,0 +1,5 @@
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\bin\Release\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\bin\Release\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Release\ProjectEntidades.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Release\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Release\ProjectEntidades.pdb

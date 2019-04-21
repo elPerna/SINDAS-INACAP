@@ -1,0 +1,34 @@
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+C:\Users\jose_\OneDrive\Escritorio\SINDAS V2.0\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csprojAssemblyReference.cache
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+C:\Users\NB QA NOVA TECN 022\Downloads\SINDASConTodosLosPeluches\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csprojAssemblyReference.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Proyecto Stgo Sur\Inacap-SINDAS\SINDAS\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\bin\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\bin\Debug\ProjectEntidades.pdb
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\obj\Debug\ProjectEntidades.csproj.CoreCompileInputs.cache
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\obj\Debug\ProjectEntidades.dll
+D:\Inacap\4to año\Taller Integral\Inacap-SINDAS\SINDAS - v1\ProjectEntidades\obj\Debug\ProjectEntidades.pdb
